@@ -16,5 +16,9 @@
     "replace"
   ],
   "author": "KuangGuanghu",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MANSOUL/assets-replace-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/MANSOUL/assets-replace-webpack-plugin#readme"
 }
