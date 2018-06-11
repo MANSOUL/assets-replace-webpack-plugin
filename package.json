@@ -1,0 +1,16 @@
+{
+  "name": "assets-replace-webpack-plugin",
+  "version": "1.0.5",
+  "description": "auto replace new assets to dist file",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "assets",
+    "replace"
+  ],
+  "author": "KuangGuanghu",
+  "license": "ISC"
+}
